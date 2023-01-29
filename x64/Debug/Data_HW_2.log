@@ -1,0 +1,3 @@
+﻿  func.cpp
+C:\Users\hp-Moon\Desktop\Data_HW_2\func.cpp(119,55): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Data_HW_2.vcxproj -> C:\Users\hp-Moon\Desktop\Data_HW_2\x64\Debug\Data_HW_2.exe
